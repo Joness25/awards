@@ -22,7 +22,7 @@ function HeaderSection() {
         <FollowerPointerCard
           title={
             <TitleComponent
-              title={"Lucky Pius"}
+              title={"John Ngugi"}
               avatar={"https://github.com/shadcn.png"}
             />
           }
